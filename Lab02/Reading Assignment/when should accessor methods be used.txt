@@ -1,0 +1,3 @@
+- When the internal representation of an object needs to be hidden,
+- When we need to enforce some sort of invariant or validation rule on setting the value,
+- When we want to provide controlled access to the data in a class.
